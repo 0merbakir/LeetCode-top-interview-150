@@ -39,8 +39,14 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 
 I regularly share insights and articles on coding problems and interview strategies on my Medium account. Check out my articles for more in-depth discussions:
 
-[My Medium Account]([https://medium.com/@yourusername](https://medium.com/@omerbkr00])
-  
-- [The Merge Sort Algorithm | #DivideAndConquer]([https://medium.com/article1link](https://medium.com/@omerbkr00/the-merge-sort-algorithm-divideandconquer-abc1b3c328cb)
+- [**My Medium Account**](https://medium.com/@omerbkr00)
 
+### Featured Articles
 
+- [**The Merge Sort Algorithm | #DivideAndConquer**](https://medium.com/@omerbkr00/the-merge-sort-algorithm-divideandconquer-abc1b3c328cb)
+  - *An in-depth exploration of the Merge Sort algorithm, its implementation, and its application in problem-solving.*
+
+- [**Tips for Acing Technical Interviews**](https://medium.com/@omerbkr00/tips-for-acing-technical-interviews-xyz123)
+  - *A comprehensive guide with strategies and tips to prepare effectively for technical interviews.*
+
+Feel free to explore these articles for more insights into coding challenges and interview preparation!
