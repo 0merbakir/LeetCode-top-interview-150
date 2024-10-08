@@ -8,7 +8,6 @@ Welcome to my repository where I share solutions to the top 150 interview questi
 - [Solutions](#solutions)
 - [Contributing](#contributing)
 - [Medium Articles](#medium-articles)
-- [License](#license)
 
 ## About
 
