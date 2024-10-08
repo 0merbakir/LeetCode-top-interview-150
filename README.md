@@ -40,10 +40,6 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 I regularly share insights and articles on coding problems and interview strategies on my Medium account. Check out my articles for more in-depth discussions:
 
 - [My Medium Account](https://medium.com/@yourusername)
-- [Article Title 1](https://medium.com/article1link)
-- [Article Title 2](https://medium.com/article2link)
-- [Article Title 3](https://medium.com/article3link)
+- [AThe Merge Sort Algorithm | #DivideAndConquer]([https://medium.com/article1link](https://medium.com/@omerbkr00/the-merge-sort-algorithm-divideandconquer-abc1b3c328cb))
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
