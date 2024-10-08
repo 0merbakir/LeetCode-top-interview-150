@@ -39,7 +39,8 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 
 I regularly share insights and articles on coding problems and interview strategies on my Medium account. Check out my articles for more in-depth discussions:
 
-- [My Medium Account](https://medium.com/@yourusername)
-- [AThe Merge Sort Algorithm | #DivideAndConquer]([https://medium.com/article1link](https://medium.com/@omerbkr00/the-merge-sort-algorithm-divideandconquer-abc1b3c328cb))
+[My Medium Account]([https://medium.com/@yourusername](https://medium.com/@omerbkr00])
+  
+- [The Merge Sort Algorithm | #DivideAndConquer]([https://medium.com/article1link](https://medium.com/@omerbkr00/the-merge-sort-algorithm-divideandconquer-abc1b3c328cb)
 
 
